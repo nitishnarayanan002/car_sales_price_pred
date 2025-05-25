@@ -1,2 +1,4 @@
-# car_sales_price_pred
+# Car Sales Prediction using ANN
+
+This is done for practice using the kaggle dataset
 As a vehicle salesperson, you would like to create a model that can estimate the overall amount that consumers would spend given the following characteristics: customer name, customer email, country, gender, age, annual salary, credit card debt, and net worth
